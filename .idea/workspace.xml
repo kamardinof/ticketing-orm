@@ -15,7 +15,6 @@
   <component name="ChangeListManager">
     <list default="true" id="df4517a9-0053-4c53-9012-7e40bd7d24f6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../jd-ticketing-project-security-master/SpringMVC-ProjectManagement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620456240245</updated>
       <workItem from="1620456242406" duration="383000" />
-      <workItem from="1620456726567" duration="4733000" />
+      <workItem from="1620456726567" duration="5585000" />
     </task>
     <servers />
   </component>
